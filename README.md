@@ -34,13 +34,6 @@ This project implements a Proxy Application in Go, featuring fundamental firewal
 - **Unit tests:** Implemented for both firewall logic and the UI.
 - **Coverage goal:** Aiming for at least 80% code coverage.
 
-## Table of Contents
-
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Testing](#testing)
-4. [Contributing](#contributing)
-5. [License](#license)
 
 ## Installation (Root permission needed)
 
