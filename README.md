@@ -1,4 +1,4 @@
-# Proxy Application in Go
+# firewall proxy app
 
 This project implements a Proxy Application in Go, featuring fundamental firewall functionalities, rate limiting, geo-blocking, logging, and a web-based user interface.
 
@@ -47,4 +47,4 @@ This project implements a Proxy Application in Go, featuring fundamental firewal
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/Pavankalyan9182/firewallproxy
