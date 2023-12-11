@@ -48,3 +48,6 @@ This project implements a Proxy Application in Go, featuring fundamental firewal
 
    ```bash
    git clone https://github.com/Pavankalyan9182/firewallproxy
+   go mod download
+   sudo go run .
+
